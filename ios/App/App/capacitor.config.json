@@ -1,0 +1,20 @@
+{
+	"appId": "com.deepbaysz.sleep",
+	"appName": "眠小羊",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 3000,
+			"launchAutoHide": true,
+			"androidSplashResourceName": "splash",
+			"androidScaleType": "CENTER_CROP",
+			"showSpinner": false,
+			"androidSpinnerStyle": "large",
+			"iosSpinnerStyle": "small",
+			"spinnerColor": "#3880ff",
+			"splashFullScreen": true,
+			"splashImmersive": true
+		}
+	}
+}
